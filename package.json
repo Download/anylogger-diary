@@ -1,0 +1,17 @@
+{
+  "name": "anylogger-diary",
+  "version": "0.0.1",
+  "description": "Anylogger adapter for Diary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anylogger",
+    "diary",
+    "logging",
+    "adapter"
+  ],
+  "author": "community",
+  "license": "MIT"
+}
